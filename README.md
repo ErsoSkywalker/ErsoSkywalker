@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome Stranger! 👋
+Hi! My name is Christian Ontiveros, I'm a Software Engineer from Mexico City, nice to meet you!
 
-<!--
-**ErsoSkywalker/ErsoSkywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Java, NodeJS, SQL and wanna learn Go
+-  ReactJS enthusiast w/NextJS
+- Docker & K8s
+- AWS & DigitalOcean
 
-Here are some ideas to get you started:
+I'm studying all the time bc I wanna be an **architect**
+Currently working 4 **GlobalLogic** as **Senior Java Developer**
+**SAA-C03** in progress!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I wanna be part of the people who build the future.
+
+Please feel free to pull any of my repos, or even if you think you can do it better, please teach me.
