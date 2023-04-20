@@ -2,7 +2,7 @@
 Hi! My name is Christian Ontiveros, I'm a Software Engineer from Mexico City, nice to meet you!
 
 - Java, NodeJS, SQL and wanna learn Go
--  ReactJS enthusiast w/NextJS
+- ReactJS enthusiast w/NextJS
 - Docker & K8s
 - AWS & DigitalOcean
 
