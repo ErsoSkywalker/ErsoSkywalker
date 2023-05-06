@@ -1,7 +1,9 @@
 # Welcome Stranger! 🐈
 Hi! My name is Christian Ontiveros, I'm a Software Engineer from Mexico City, nice to meet you!
 
-I'm a Cat Person
+I really, really, **REALLY** love cats. 🐈 🐈‍⬛
+
+Currently learning and working on:
 
 - Java, NodeJS, SQL and wanna learn Go
 - ReactJS enthusiast w/NextJS
@@ -16,4 +18,4 @@ Currently working 4 **GlobalLogic** as **Senior Java Developer**
 
 I wanna be part of the people who build the future.
 
-Please feel free to pull any of my repos, or even if you think you can do it better, please teach me.
+Please feel free to clone any of my repos, or even if you think you can do it better, I'd be glad to learn from you.
