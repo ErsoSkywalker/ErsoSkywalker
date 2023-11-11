@@ -14,7 +14,7 @@ I'm studying all the time bc I wanna be an **architect**
 
 Currently working 4 **GlobalLogic** as **Senior Java Developer**
 
-**SAA-C03** in progress!
+**Solutions Architect Associate Certified by AWS**
 
 I wanna be part of the people who build the future.
 
