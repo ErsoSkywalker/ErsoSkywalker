@@ -1,5 +1,5 @@
 # Welcome Stranger! 🐈
-Hi! My name is Christian Ontiveros, I'm a Software Engineer from Mexico City, nice to meet you!
+Hi! My name is Christian Ontiveros, I'm a Software Architect from Mexico City, nice to meet you!
 
 I really, really, **REALLY** love cats. 🐈 🐈‍⬛
 
@@ -10,9 +10,7 @@ Currently learning and working on:
 - Docker & K8s
 - AWS & DigitalOcean
 
-I'm studying all the time bc I wanna be an **architect**
-
-Currently working 4 **GlobalLogic** as **Senior Java Developer**
+Currently working 4 **Softtek** as **Software Architect**
 
 **Solutions Architect Associate Certified by AWS**
 
